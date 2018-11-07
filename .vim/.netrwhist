@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/cc/cs61c/fa18/class/cs61c-axe/fa18-lab-Rhagos/lab00/user/abirose/init.d'
+let g:netrw_dirhist_2='/home/cc/cs61c/fa18/class/cs61c-axe/.vim'
+let g:netrw_dirhist_3='/home/cc/cs61c/fa18/class/cs61c-axe'
+let g:netrw_dirhist_4='/c/Users/Daniel/Desktop/CS/CS188/multiagent'
+let g:netrw_dirhist_5='/home/domath/side'
